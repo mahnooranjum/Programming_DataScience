@@ -17,3 +17,11 @@ Download the repository and run the notebooks using either of the following:
 | 5- Pandas.ipynb  | Pandas in Data Science  | 
 | 6- Plotting_Matplotlib.ipynb  | Matplotlib for plotting  | 
 | 7- Plotting_Seaborn.ipynb  | Seaborn for pretty plotting  | 
+
+## Data Generation
+Contains python files to create datasets for regression, classification and clustering problems
+## Getting Started
+Download the repository and run the notebooks using either of the following:
+> Python = 3+
+>
+
