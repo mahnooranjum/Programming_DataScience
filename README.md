@@ -25,3 +25,17 @@ Download the repository and run the notebooks using either of the following:
 > Python = 3+
 >
 
+## Machine Learning
+Contains jupyter notebooks for machine learning algorithms tested on different datasets
+## Getting Started
+Download the repository and run the notebooks using either of the following:
+> Python = 3+
+> Scikit Learn = 0.22.2
+
+## Machine Learning Py
+Contains python files for machine learning algorithms tested on different datasets
+## Getting Started
+Download the repository and run the notebooks using either of the following:
+> Python = 3+
+> Scikit Learn = 0.22.2
+
